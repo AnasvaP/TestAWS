@@ -8,6 +8,9 @@ target 'TestAWS' do
   # Pods for TestAWS
 
 pod 'Amplify', '~> 1.0'             
-pod 'Amplify/Tools', '~> 1.0'       
+pod 'Amplify/Tools', '~> 1.0'
+pod 'AmplifyPlugins/AWSCognitoAuthPlugin', '~> 1.0'    
+pod 'AmplifyPlugins/AWSAPIPlugin', '~> 1.0'   
+pod 'AmplifyPlugins/AWSS3StoragePlugin', '~> 1.0'
 
 end

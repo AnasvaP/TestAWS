@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/anastasiiapoliuchovych/Desktop/TestAWS1/TestAWS/info.plist">
+   </FileRef>
+   <FileRef
       location = "group:TestAWS.xcodeproj">
    </FileRef>
    <FileRef
